@@ -1,4 +1,5 @@
 # custom_apache
 
-TODO: Enter the cookbook description here.
+This cookbook installs Apache HTTP Server, manages the service, creates
+the homepage, and sets user permissions.
 
